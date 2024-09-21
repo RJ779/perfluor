@@ -1,0 +1,51 @@
+,Latitude,Longitude,Landfill ID,Current Landfill Status,Waste in Place (tons),Ownership Type,Current Project Status,LFG Collected (mmscfd)
+0,41.707,-70.895,1833,Closed,900000.0,Public,Low Potential,
+1,42.3712,-72.5108,789,Closed,525096.0,Public,Low Potential,
+2,41.94,-71.235,794,Closed,1000000.0,Private,Shutdown,0.72
+5,41.6611,-70.3911,2334,Closed,2000000.0,Public,Low Potential,
+6,42.092537,-72.594646,793,Closed,,Public,Shutdown,0.36
+7,41.728,-70.5813,774,Open,1000000.0,Public,Candidate,1.368
+8,42.207276,-70.997994,1834,Closed,1000000.0,Public,Shutdown,
+9,41.812833,-70.7195,20851,Closed,442139.0,Public,Low Potential,0.667
+10,41.6866,-70.0062,795,Closed,230354.0,Public,Low Potential,
+11,42.1752,-72.5325,796,Closed,1000000.0,Private,Shutdown,1.0
+12,42.1659,-72.538,775,Closed,12870494.0,Private,Operational,1.405
+13,41.725,-70.982,788,Open,3000000.0,Public,Operational,1.6
+14,42.559618,-70.987311,21260,Closed,,Public,Low Potential,
+15,41.5798,-71.0002,776,Closed,1259650.0,Public,Low Potential,
+16,42.06342,-70.97857,777,Closed,4700000.0,Private,Shutdown,1.0
+18,41.751,-71.1068,778,Closed,5736457.0,Private,Operational,2.541
+21,42.53596,-71.85388,787,Open,14110494.0,Private,Operational,3.187
+25,42.282,-71.182,20855,Closed,1812179.0,Public,Low Potential,0.116
+26,42.527,-70.9868,784,Closed,,Private,Low Potential,
+27,42.2214,-72.5459,779,Closed,6437059.0,Private,Operational,0.423
+28,42.218739,-71.789885,802,Closed,2000000.0,Public,Low Potential,0.5
+29,41.9918,-70.8992,797,Closed,3080527.0,Private,Shutdown,0.17
+30,42.335,-72.2372,20897,Closed,808307.0,Private,Low Potential,0.1
+31,42.76464,-71.12504,10660,Closed,8100407.0,Private,Shutdown,0.72
+32,42.261836,-70.857348,21199,Closed,,Public,Low Potential,
+33,42.26,-71.898,798,Closed,,Public,Low Potential,
+34,42.627,-71.3535,801,Closed,1335800.0,Public,Shutdown,0.2
+36,41.7024,-70.781,799,Closed,,Public,Low Potential,
+37,42.112,-70.708,781,Closed,774189.0,Public,Low Potential,
+38,42.388,-72.067,773,Closed,3845319.0,Private,Shutdown,0.565
+39,41.9257,-70.83147,20703,Open,2079339.0,Private,Candidate,0.569
+40,41.279,-70.165,790,Open,890568.0,Public,Future Potential,
+41,41.662589,-70.957314,791,Closed,3600000.0,Public,Low Potential,
+42,42.29385,-72.71622,1835,Closed,2900518.0,Public,Shutdown,0.173
+43,41.6647,-70.5479,803,Closed,,Public,Low Potential,
+44,42.2025,-72.322,783,Closed,,Public,Low Potential,
+45,42.0392,-71.292,785,Closed,7426271.0,Private,Operational,0.623
+47,42.2417,-71.04503,10641,Closed,,Private,Shutdown,
+50,42.1806,-71.0784,792,Closed,1812096.0,Private,Shutdown,0.367
+51,42.405,-71.542,780,Closed,711360.0,Private,Low Potential,
+52,42.5814,-71.245,1836,Closed,,Private,Low Potential,
+53,42.22,-72.558,2301,Closed,1300000.0,Public,Low Potential,0.842
+54,42.4115,-71.7128,800,Closed,1500000.0,Public,Low Potential,
+55,42.10691,-72.0324,10100,Closed,5305992.0,Public,Operational,1.505
+56,42.043815,-72.118011,21141,Open,,Public,Unknown,
+57,41.9223,-71.0836,786,Closed,4108889.0,Private,Operational,0.812
+59,42.36326667,-71.38081667,10362,Closed,99190.0,Public,Low Potential,
+60,42.581,-72.045,10780,Closed,2780000.0,Public,Operational,0.265
+61,42.148,-72.748,2197,Closed,,Public,Shutdown,
+62,42.6788,-72.0602,1951,Closed,,Public,Low Potential,

@@ -1,0 +1,641 @@
+Unnamed: 0,Name,Longitude,Latitude,PFHxS,PFOA,PFOS,PFBS,PFBA,PFDS,PFDA,PFDoA,PFHPS,PFHPA,PFHxA,PFNS,PFNA,PFOSA,PFPES,PFPEA,PFTA,PFTRDA,PFuNDA,Total_PFAS,Nearest_Landfill,Distance_miles,Num_Landfills_within_7_miles,Nearest_open_landfill,Distance_to_Nearest_Open_Landfill,Nearest_Airport,Distance_to_airport_in_miles
+0,"USGS 01094450 NORTH NASHUA RIR AT NORTH LOMINSTR, MA",-71.74638888888889,42.54222222222222,4.44,26.9,9.4,59.7,31.0,1.81,3.68,1.81,1.81,13.8,55.7,1.81,2.65,1.81,0.637,36.7,1.81,1.81,1.81,259.08700000000005,787,5.503802878023604,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",5.503802878023604,14,1.051196052770587
+1,"USGS 01094455 NORTH NASHUA RIR AT LOMINSTR, MA",-71.73722222222223,42.52583333333333,4.15,26.5,10.1,49.6,28.4,1.78,4.03,1.78,1.78,13.5,49.1,1.78,2.57,1.78,0.528,33.7,1.78,1.78,1.78,236.418,787,5.996366325318468,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",5.996366325318468,14,2.2537486614221365
+2,"USGS 01094950 STILLWATR RIR AT WST STRLING, MA",-71.81861111111111,42.446666666666665,1.92,3.72,1.46,1.12,1.58,1.92,1.92,1.92,1.92,2.24,5.08,1.92,0.548,1.92,1.92,4.18,1.92,1.92,1.92,41.04800000000001,800,5.930053160994202,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",6.421279636041968,41,2.0333122827316132
+3,"USGS 01095920 NASHUA RIR NAR AYR, MA",-71.60972222222222,42.57833333333333,6.93,21.3,12.6,20.5,13.5,1.78,1.28,1.78,1.78,10.8,28.2,1.78,1.72,1.78,0.626,27.8,1.78,1.78,1.78,159.496,780,12.454213014097663,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",12.797948012984374,42,4.514501436756838
+4,"USGS 01096603 ASSABT RIR NAR WSTBOROUGH, MA",-71.63861111111112,42.27944444444445,2.66,5.13,9.39,1.9,6.21,1.86,0.659,1.86,1.86,2.73,4.59,1.86,10.1,1.86,0.369,5.06,1.86,1.86,1.84,63.658,802,8.816525751171499,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",20.85011560238147,77,4.655859392617285
+5,"USGS 01096870 ASSABT RIR AT COX ST NAR HUDSON, MA",-71.54638888888888,42.39972222222222,2.86,9.49,7.62,6.13,7.73,2.47,0.925,2.47,2.47,3.54,16.7,2.47,1.98,2.47,0.361,23.6,2.47,2.47,0.406,98.632,780,0.4279152385197434,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",18.31230454395935,46,2.314123178284795
+6,"USGS 01097000 ASSABT RIR AT MAYNARD, MA",-71.45027777777779,42.43194444444444,5.74,9.95,10.3,6.02,7.15,1.96,0.668,1.96,1.96,4.1,15.4,1.96,4.17,1.96,0.526,21.1,1.96,1.96,0.53,99.374,780,5.046113045021399,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",21.833827089618165,47,0.9218559303977958
+7,"USGS 01097050 ASSABT RIR AT MAIN ST NAR CONCORD, MA",-71.39055555555557,42.45638888888889,4.15,9.72,8.63,6.01,6.85,1.92,0.649,1.92,1.92,4.06,14.0,1.92,3.25,1.92,0.476,19.7,1.92,1.92,0.345,91.28000000000002,10362,6.4468179003457635,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",24.295153572523308,47,4.058402709501608
+8,"USGS 01097390 ASSABT RIR AT RT 2 NAR CONCORD, MA",-71.39222222222223,42.46555555555556,4.0,10.4,8.68,5.84,6.8,1.82,0.574,1.82,1.82,4.01,14.0,1.82,3.14,1.82,0.389,19.8,0.25,1.82,0.447,89.24999999999997,10362,7.0843153040688795,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",24.07491089061704,47,4.218418142943263
+9,"USGS 01098704 WARD BROOK NAR MARLBOROUGH, MA",-71.49527777777777,42.35194444444445,3.77,11.3,11.3,11.5,3.72,1.83,1.83,1.83,1.83,4.0,6.35,1.83,1.01,1.83,0.48,7.2,1.83,1.83,1.83,77.1,780,4.373472044825858,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",22.302397174396987,48,1.0665715349608014
+10,"USGS 01098705 SWAG BROOK NAR MARLBOROUGH, MA",-71.49138888888889,42.35083333333333,1.16,8.49,7.47,2.52,7.37,1.83,1.94,1.83,1.83,2.9,26.7,1.83,1.34,1.83,1.83,24.0,1.83,1.83,1.83,100.36,780,4.548212276839599,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",22.50967950618705,48,1.1796105193972757
+11,"USGS 01099000 CONCORD RIR AT LOWLL, MA",-71.29861111111111,42.62777777777778,3.41,8.82,8.73,4.38,6.63,1.91,0.68,1.91,1.91,3.76,13.6,1.91,2.23,1.91,0.432,16.7,1.91,1.91,1.91,84.65199999999997,801,2.7983265988607298,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",29.024266877639032,78,6.520374371766205
+12,"USGS 01100000 MRRIMACK RIR BL CONCORD RIR AT LOWLL, MA",-71.29888888888888,42.645833333333336,1.55,6.85,4.31,2.5,2.7,1.9,0.316,1.9,1.9,2.71,6.84,1.9,0.878,1.9,0.293,6.39,1.9,1.9,1.9,50.53699999999999,801,3.071876646296048,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",29.30400306436285,78,5.635292045030313
+13,"USGS 01100500 MRRIMACK RIR AT LAWRNC, MA",-71.15313888888889,42.70483333333333,50.0,7.7,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,13.9,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,871.5999999999999,10660,4.36884220318368,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",37.57594074392981,51,1.7170451735180756
+14,"USGS 01103280 CHARLS RIR AT MDWAY, MA",-71.39,42.13972222222222,6.21,9.4,19.0,5.79,7.32,1.9,0.5,1.9,1.9,4.05,12.3,1.9,1.26,1.9,0.629,14.1,0.235,1.9,1.9,94.09400000000002,785,8.574200213633684,0,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",32.31280883159188,43,6.621339628242064
+15,"USGS 01103305 CHARLS RIR NAR MILLIS, MA",-71.36277777777777,42.13305555555556,4.29,7.0,9.01,3.79,7.02,1.95,0.668,1.95,1.95,3.66,22.6,1.95,1.28,1.95,0.644,20.7,1.95,1.95,1.95,96.262,785,7.42984843849036,0,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",30.85882242429745,43,7.832149709713697
+16,"USGS 01107100 TOWN RIR AT BRIDGWATR, MA",-70.97305555555556,41.996944444444445,4.45,7.89,16.2,3.84,4.47,1.83,0.458,1.83,1.83,3.56,6.81,1.83,1.32,1.83,0.77,7.07,1.83,1.83,1.83,71.478,797,3.8190379436269866,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",8.796094942304652,79,6.750045562279032
+17,"USGS 01109650 BLACKSTON RIR RT 146 AT WORCSTR, MA",-71.78765277777778,42.22785277777778,5.52,7.54,11.6,6.17,14.1,1.87,0.832,1.87,1.87,5.4,11.1,1.87,1.33,1.87,0.862,15.0,0.332,1.87,0.284,91.29,802,0.6393752827274171,2,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",21.19806232798478,39,5.275619773430424
+18,"USGS 01109660 BLACKSTON RIR NAR MILLBURY, MA",-71.78194444444445,42.20777777777778,2.55,9.26,5.72,3.75,15.7,1.84,1.19,1.84,1.84,4.24,35.3,1.84,1.88,1.84,0.437,33.3,1.84,1.84,1.84,128.047,802,0.859275520813717,2,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",20.644888496061995,36,4.735478487670077
+19,"USGS 01170006 DRFILD R, STILLWATR BR, AT WST DRFILD, MA",-72.63305555555554,42.52666666666666,1.84,1.32,1.04,1.84,0.558,1.84,1.84,1.84,1.84,0.437,1.84,1.84,1.84,1.84,1.84,0.75,1.84,1.84,1.84,29.865,789,12.417934153666264,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",39.7824029533681,13,7.163698698102845
+20,"USGS 01170150 GRN RIR NAR GRNFILD, MA",-72.62083333333332,42.64694444444444,1.85,0.489,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,1.85,33.78900000000001,789,19.845123917780985,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",39.85878317867283,13,6.254853148454105
+21,"USGS 01177000 CHICOP RIR AT INDIAN ORCHARD, MA",-72.51444444444445,42.160555555555554,0.56,2.35,1.14,0.982,1.71,1.83,1.83,1.83,1.83,1.53,2.65,1.83,0.363,1.83,1.83,2.68,1.83,1.83,1.83,32.264999999999986,775,1.2645568825951055,5,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",21.91131389320449,1,2.698927456039027
+22,"USGS 01181008 WSTFILD RIR AT HUNTINGTON, MA",-72.8711111111111,42.22555555555556,0.56,0.853,1.02,1.83,0.487,1.83,1.83,1.83,1.83,0.282,1.83,1.83,1.83,1.83,1.83,0.714,1.83,1.83,1.83,27.70599999999999,2197,8.281736482477973,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",40.67100239875276,24,7.867952752113739
+23,"USGS 01185500 WST BRANCH FARMINGTON RIR NAR NW BOSTON, MA",-73.07288333333332,42.07886111111112,1.82,1.27,1.01,1.82,0.987,1.82,1.82,1.82,1.82,0.59,1.82,1.82,0.539,1.82,1.82,1.03,1.82,1.82,1.82,29.08600000000001,2197,17.364150954131173,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",49.169876597505564,22,8.901482448529523
+24,"USGS 01197134 HOUSATONIC RIR AT NW LNOX, MA",-73.24083333333333,42.39388888888889,0.588,2.99,2.63,1.35,2.08,1.81,1.81,1.81,1.81,1.25,4.8,1.81,0.428,1.81,1.81,5.49,1.81,1.81,1.81,39.706,1835,27.734965266480966,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",62.46706240552534,21,3.511333924724004
+25,"USGS 01197500 HOUSATONIC RIR NAR GRAT BARRINGTON, MA",-73.35466666666666,42.23191666666667,0.754,2.9,2.7,1.16,2.84,1.81,1.81,1.81,1.81,1.57,5.4,1.81,0.649,1.81,1.81,5.93,1.81,1.81,1.81,42.003,2197,31.67278950657668,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",64.83913129618983,17,4.1331733149011605
+26,"USGS 01332500 HOOSIC RIR NAR WILLIAMSTOWN, MA",-73.15944444444445,42.70027777777778,0.622,3.03,3.68,0.866,0.72,1.97,1.97,1.97,1.97,0.492,1.38,1.97,1.97,1.97,1.97,1.3,1.97,1.97,1.97,33.76,1835,36.04865477929802,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",67.5162196449179,15,0.656013695746474
+27,"USGS 01096720 ASSABT RIR AT BOUNDARY ST. NR NORTHBOROUGH, MA",-71.61638888888888,42.34138888888889,2.43,10.8,6.2,6.01,7.73,1.88,1.06,1.88,1.88,3.23,21.2,1.88,3.02,1.88,0.236,33.9,1.88,1.88,0.683,109.659,780,5.811339213581399,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",18.10492891154555,44,2.218719479283236
+28,"USGS 01095505 NASHUA RIR 0.4 MI UPSTRAM RT 110 AT CLINTON, MA",-71.68027777777779,42.42916666666667,0.455,2.42,2.0,0.681,1.19,1.79,1.79,1.79,1.79,1.15,1.79,1.79,0.416,1.79,1.79,1.87,0.276,0.308,1.79,26.876,800,2.0623351329026334,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",11.532617563454494,44,4.692402555548904
+29,"USGS 423033071185001 CONCORD R RT225 CARLISL-BDFORD, MA",-71.31388888888888,42.509166666666665,3.39,7.15,6.72,4.37,5.67,1.88,0.506,1.88,1.88,3.3,9.98,1.88,2.34,1.88,0.42,13.2,1.88,1.88,1.88,72.08599999999998,1836,6.100921861605442,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",27.632621248568622,54,2.977892715769308
+30,USGS 423506071171401 CONCORD R POLLAND ST,-71.28722222222223,42.585,3.11,8.16,7.62,4.52,5.89,1.93,0.544,1.93,1.93,3.68,10.2,1.93,2.34,1.93,0.389,12.5,1.93,1.93,1.93,74.39300000000001,1836,2.1679720945031935,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",29.11215282559797,54,7.938580892579779
+31,USGS 421700071381901 ASSABT RIR DS FROM WSTBOROUGH WTP AT ROUT 9,-71.63861111111112,42.28333333333333,2.87,11.6,4.84,6.37,9.66,1.91,1.36,1.91,1.91,3.29,27.9,1.91,2.1,1.91,0.371,48.8,1.91,1.91,1.91,134.44099999999997,802,8.946997274204982,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",20.622490254095112,77,4.6656538127493565
+32,"USGS 01096725 ASSABT RIR, DS MARLBOROUGH WWTP",-71.61426666666667,42.34520555555556,2.34,9.67,6.57,6.28,6.89,1.87,1.07,1.87,1.87,3.22,19.2,1.87,2.49,1.87,0.311,29.4,1.87,1.87,0.629,101.16,780,5.5418192296861815,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",17.983870010668248,44,2.0821743345265387
+33,"USGS 01183610 WSTFILD RIR AT BRIDG ST AT NORTH AGAWAM, MA",-72.63630555555557,42.09944444444445,6.96,4.82,13.4,1.69,2.51,1.8,1.8,1.8,1.8,1.86,6.83,1.8,0.48,1.8,0.737,6.46,1.8,1.8,1.8,61.94699999999998,793,2.1938780171296495,3,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",26.927495366023887,3,5.746410816073668
+34,"USGS 01173515 WAR RIR NAR PALMR, MA.",-72.31861111111111,42.20461944444445,0.672,5.86,1.61,1.71,3.01,1.88,1.88,1.88,1.88,3.11,5.67,1.88,0.653,1.88,1.88,5.66,1.88,1.88,1.88,46.755,783,0.22725005918849073,1,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",15.14637774079645,28,1.3437423877818975
+35,"USGS 01100475 MRRIMACK R AT AB BASHARA BOAT HOUS LAWRNC, MA",-71.17661111111111,42.69291666666666,1.73,24.2,4.67,2.48,2.65,1.93,0.309,1.93,1.93,2.87,7.02,1.93,0.842,1.93,0.332,6.16,1.93,1.93,1.93,68.70300000000002,10660,5.603405640244186,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",36.18872460674857,78,2.069756650655607
+36,"USGS 01106444 SALISBURY PLAIN R NR MATFILD ST  BRIDGWATR, MA",-70.98399722222223,42.03812222222222,2.41,9.28,7.46,5.25,6.0,1.89,0.661,1.89,1.89,2.86,18.6,1.89,1.16,1.89,0.37,33.1,1.89,1.89,1.89,102.271,777,1.7681889010241603,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",11.040675633829663,79,7.513294869441233
+37,"USGS 01106438 SALISBURY PLAIN R AT SARGNT'S WAY, BROCKTON, MA",-71.00980277777778,42.05363055555555,2.89,7.56,8.5,4.48,3.3,1.9,1.9,1.9,1.9,2.93,5.98,1.9,1.03,1.9,0.415,6.38,1.9,1.9,1.9,60.56499999999999,777,1.742727272446795,1,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",12.738635514299599,63,9.030877008010398
+38,"USGS 01095506 NASHUA RIR AT ROUT 110, CLINTON, MA",-71.68005833333333,42.43269444444445,0.811,3.63,2.7,1.48,1.92,1.8,0.389,1.8,1.8,1.52,5.54,1.8,0.472,1.8,1.8,4.1,1.8,1.8,1.8,38.76199999999999,800,2.2234343216632184,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",11.387070396328818,44,4.9098199312238044
+39,"USGS 01168305 COLD RIR NAR CHARLMONT, MA",-72.93435000000001,42.63628055555556,1.84,0.512,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,1.84,33.632,1835,26.132546303156982,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",55.54331832350921,16,11.060345506713452
+40,"USGS 01094445 NORTH NASHUA R NR LANIDS LN, . FITCHBURG, MA",-71.75085833333333,42.54950833333333,2.01,17.3,8.34,3.32,5.71,1.8,0.74,1.8,1.8,9.61,13.5,1.8,1.67,1.8,0.28,14.6,1.8,1.8,1.8,91.47999999999998,787,5.34086713385787,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",5.34086713385787,14,0.5321357924158918
+41,"USGS 01331393 HOOSIC RIR NAR GRO STRT, ADAMS, MA",-73.13815000000001,42.600575,0.417,0.985,1.11,0.481,0.609,1.88,1.88,1.88,1.88,0.387,1.88,1.88,1.88,1.88,1.88,0.737,0.297,1.88,1.88,25.702999999999992,1835,30.222804621118453,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",64.86076716989041,15,6.782886079251842
+42,"USGS 01096876 ASSBT RIR AT ROUT 62, HUDSON, MA",-71.52596944444444,42.40440833333333,2.76,9.87,8.4,7.02,7.69,1.87,0.679,1.87,1.87,3.53,17.1,1.87,2.34,1.87,0.366,25.1,1.87,1.87,0.306,98.25100000000002,780,0.8210364288130969,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",19.05841510244212,46,1.498817613532497
+43,"USGS 01094465 NORTH NASHUA RIR AT MCHANIC ST, LOMINSTR, MA",-71.7273388888889,42.51961666666666,3.43,21.6,9.04,37.4,24.7,1.84,2.77,1.84,1.84,10.6,41.4,1.84,2.33,1.84,0.522,35.3,1.84,1.84,1.84,203.81200000000004,787,6.5581121736850765,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",6.5581121736850765,14,2.8856190120985805
+44,"USGS 01109048 THRMIL RIR AT NORTON A, TAUNTON, MA",-71.15426666666667,41.933302777777776,1.38,8.95,7.45,3.74,14.1,1.87,1.69,1.87,1.87,5.3,16.7,1.87,1.78,1.87,0.306,22.4,1.87,1.87,0.28,97.166,786,3.720427009680527,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",16.6445077132412,55,5.428527747137388
+45,"USGS 01109043 THRMIL RIR AT CRAN ST, TAUNTON, MA",-71.16041111111112,41.94675833333333,2.76,9.87,11.8,3.24,2.99,1.83,0.95,1.83,1.83,4.55,7.41,1.83,1.9,1.83,0.341,7.18,1.83,1.83,1.83,67.631,794,3.8715182098764673,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",17.013315946512,55,4.455982915599908
+46,"USGS 01107799 NMASKT RIR AT PLYMOUTH ST, MIDDLBOROUGH, MA",-70.92336111111112,41.92187777777777,4.04,9.85,4.87,37.7,14.1,1.88,0.327,1.88,1.88,5.05,19.2,1.88,1.0,1.88,0.594,15.9,0.26,1.88,1.88,126.05099999999996,20703,4.743632801484516,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",4.743632801484516,4,5.703368741778146
+47,"USGS 01107798 NMASKT R AT OLIR MILL PARK, MIDDLBOROUGH, MA",-70.91362777777778,41.90700833333333,0.917,2.91,2.1,1.71,1.59,1.82,1.82,1.82,1.82,1.2,2.18,1.82,0.568,1.82,1.82,2.29,0.24,1.82,1.82,32.085,20703,4.427222760204034,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",4.427222760204034,4,5.37284150369698
+48,"USGS 01103139 CHARLS RIR AT MLLN STRT, MILFORD, MA",-71.50135833333333,42.11695,2.02,11.0,7.3,6.66,9.34,1.93,1.02,1.93,1.93,4.45,15.9,1.93,1.45,1.93,0.398,18.2,1.93,1.93,1.93,93.17800000000004,785,12.028175091353255,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",32.10516231474022,43,0.853285665420576
+49,"USGS 01103138 CHARLS RIR AT MILFORD SWR PLANT, MILFORD, MA",-71.507,42.119908333333335,4.78,19.9,16.2,5.68,6.89,1.85,0.962,1.85,1.85,5.92,10.8,1.85,1.76,1.85,0.788,10.1,1.85,1.85,1.85,98.57999999999996,785,12.378767748858735,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",31.8510401993498,43,0.91935960430929
+50,"USGS 01166630 MILLRS RIR AT BRIDG STRT, MILLRS FALLS, MA",-72.49686111111112,42.58018611111112,1.13,5.64,4.02,2.07,7.68,1.97,1.97,1.97,1.97,4.57,25.7,1.97,1.14,1.97,1.97,27.4,0.257,1.97,1.97,97.337,789,14.442516779070454,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",32.952172072704684,13,1.5778429892681296
+51,"USGS 010965043 NASHUA RIR DOWNSTRAM, PPPRLL, MA",-71.55976388888888,42.67585555555555,8.13,24.9,12.8,13.2,13.2,1.88,1.17,1.88,1.88,11.8,33.8,1.88,1.96,1.88,0.888,30.3,1.88,1.88,1.88,167.188,801,11.03747602810016,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",17.836789870605333,45,1.483940672761388
+52,"USGS 010965042 NASHUA RIR UPSTRAM, PPPRLL, MA",-71.56315555555555,42.67297222222222,8.02,25.3,14.3,13.0,13.3,1.88,1.23,1.88,1.88,12.3,34.0,1.88,2.04,1.88,0.72,29.6,1.88,1.88,1.88,168.84999999999997,801,11.144089959571417,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",17.584081827927463,45,1.73200412173453
+53,"USGS 01108415 TAUNTON RIR DOWNSTRAM, TAUNTON, MA",-71.10255555555555,41.87156111111111,2.77,7.24,6.34,11.4,6.52,1.82,1.04,0.557,1.82,3.14,15.2,1.82,1.25,1.82,0.364,18.3,1.82,1.82,0.44,85.48099999999998,786,3.6356701840868193,1,"Unnamed: 0                          13
+Latitude                        41.725
+Longitude                      -70.982
+Landfill ID                        788
+Current Landfill Status           Open
+Waste in Place (tons)        3000000.0
+Ownership Type                  Public
+Current Project Status     Operational
+LFG Collected (mmscfd)             1.6
+Name: 11, dtype: object",11.877456945254389,56,4.247901998374537
+54,"USGS 01108414 TAUNTON RIR UPSTRAM, TAUNTON, MA",-71.09325,41.87788055555556,2.54,6.97,6.36,10.6,6.24,1.84,0.606,1.84,1.84,3.03,14.8,1.84,1.08,1.84,0.441,18.1,1.84,1.84,1.84,85.48700000000002,786,3.1057911092337562,1,"Unnamed: 0                          13
+Latitude                        41.725
+Longitude                      -70.982
+Landfill ID                        788
+Current Landfill Status           Open
+Waste in Place (tons)        3000000.0
+Ownership Type                  Public
+Current Project Status     Operational
+LFG Collected (mmscfd)             1.6
+Name: 11, dtype: object",12.013788866897826,56,3.7362233312605833
+55,"USGS 01095862 NASHUA RIR NAR MCPHRSON ROAD, SHIRLY, MA",-71.61100277777777,42.55519722222222,3.38,20.3,7.97,22.7,14.5,1.97,1.3,1.97,1.97,11.1,29.8,1.97,1.62,1.97,0.415,28.4,1.97,1.97,1.97,157.24499999999998,780,10.95019567908209,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",12.467112582008095,42,3.353193701062358
+56,"USGS 01098880 CONCORD RIR NAR LOWLL ROAD, CONCORD, MA",-71.35573888888888,42.46653611111111,2.98,6.77,6.72,4.69,5.5,1.88,0.462,1.88,1.88,3.1,9.82,1.88,1.89,1.88,0.417,12.5,0.237,1.88,1.88,68.246,10362,7.242416345947975,0,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",25.88987358274262,54,3.3961982853801786
+57,"USGS 01362147 WRIGHT BROOK NAR MOUNT WASHINGTON, MA",-73.48254722222222,42.10681944444445,1.9,0.247,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9,34.44699999999999,2197,37.84649897786025,0,"Unnamed: 0                        56
+Latitude                   42.043815
+Longitude                 -72.118011
+Landfill ID                    21141
+Current Landfill Status         Open
+Waste in Place (tons)            NaN
+Ownership Type                Public
+Current Project Status       Unknown
+LFG Collected (mmscfd)           NaN
+Name: 44, dtype: object",70.29873758838085,17,6.7143408185377
+58,"USGS 01097026 ASSABT RIR AT POWDRMILL RD AT ACTON, MA",-71.42919444444445,42.440688888888886,5.07,10.3,10.8,5.79,7.09,1.95,0.668,1.95,1.95,4.19,15.0,1.95,4.37,1.95,0.691,20.5,1.95,1.95,0.574,98.69300000000004,10362,5.8891176470417355,2,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",22.669986549450734,47,1.8943651499130019
+59,"USGS 011006065 SHAWSHN RIR AT BRIDG STRT NR TWKSBURY, MA",-71.19512222222222,42.594675,25.7,15.2,55.3,6.9,11.8,1.86,0.85,1.86,1.56,9.11,19.4,1.86,2.06,1.86,2.9,21.4,0.369,0.354,0.276,180.61900000000009,1836,2.7039732582658775,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",33.855087899539654,78,7.348361589346638
+60,"USGS 01108050 SAWMILL BROOK AT CONANT ST BRIDGWATR, MA",-70.95879166666667,41.95881111111112,0.938,3.12,2.4,1.64,2.88,1.88,1.88,1.88,1.88,1.2,2.51,1.88,0.309,1.88,0.245,2.29,1.88,1.88,1.88,34.452,797,3.8213592427349146,3,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",6.94718913620045,56,6.359412472101164
+61,"USGS 01108055 SAWMILL BROOK AT ROUT 28, BRIDGWATR, MA",-70.968575,41.94890555555556,1.43,3.39,3.78,2.12,7.25,1.87,1.87,1.87,1.87,1.89,37.4,1.87,2.27,1.87,0.277,44.2,1.87,1.87,1.87,120.83700000000005,797,4.640233993287999,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",7.244486500119315,56,5.515763606482607
+62,"USGS 011006712 MRRIMACK RIR NAR HARHILL, MA",-71.0869111111111,42.77048333333333,1.9,6.42,5.1,2.52,3.91,3.85,3.85,3.85,3.85,3.13,8.39,3.85,0.885,3.85,3.85,6.97,3.85,3.85,3.85,77.725,10660,1.980654342728075,1,"Unnamed: 0                          21
+Latitude                      42.53596
+Longitude                    -71.85388
+Landfill ID                        787
+Current Landfill Status           Open
+Waste in Place (tons)       14110494.0
+Ownership Type                 Private
+Current Project Status     Operational
+LFG Collected (mmscfd)           3.187
+Name: 16, dtype: object",42.29805763006637,6,3.793939600509971
+63,"USGS 01107102 TOWN RIR AT HAYWARD ST, BRIDGWATR, MA",-70.953675,41.99753888888889,3.8,8.16,14.1,5.07,5.04,1.84,0.569,1.84,1.84,3.49,9.22,1.84,1.35,1.84,0.826,8.61,1.84,1.84,1.84,74.95500000000004,797,2.832494924518768,2,"Unnamed: 0                        39
+Latitude                     41.9257
+Longitude                  -70.83147
+Landfill ID                    20703
+Current Landfill Status         Open
+Waste in Place (tons)      2079339.0
+Ownership Type               Private
+Current Project Status     Candidate
+LFG Collected (mmscfd)         0.569
+Name: 30, dtype: object",8.013130526883737,79,5.75622996821919
